@@ -1,0 +1,11 @@
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\bin\Debug\net6.0\PetLib.deps.json
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\bin\Debug\net6.0\PetLib.dll
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\bin\Debug\net6.0\PetLib.pdb
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.AssemblyInfoInputs.cache
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.AssemblyInfo.cs
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.dll
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\refint\PetLib.dll
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\PetLib.pdb
+C:\Coding_Projects\Projects\PetProject\PetProjLibrary\obj\Debug\net6.0\ref\PetLib.dll
